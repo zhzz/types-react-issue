@@ -1,0 +1,13 @@
+{
+  "name": "types-react-issue",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.9.16",
+    "typescript": "^3.7.3"
+  },
+  "dependencies": {
+    "react": "^16.12.0"
+  }
+}
